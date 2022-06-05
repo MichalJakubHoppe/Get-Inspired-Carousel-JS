@@ -6,7 +6,7 @@ Are you feeling a little down today? No worries, check this awe-inspring coursel
 The Photo Carousel JavaScript inspired by project in Scrimba's Frontend Developer Career Path's Module 5: Essential JavaScript Concepts.
 Please see this independent prpject called: the Get_inspired_Carousel_JS app
 
-# Check out this live demo here:
+# Check out this live demo here: https://michaljakubhoppe.github.io/Get-Inspired-Carousel-JS/
 
 # Languages:
 HTML, CSS3, Javascript(vanilla)
